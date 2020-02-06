@@ -1,0 +1,27 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  }
+
+  .flex-container {
+    padding: 25px;
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: flex-start;
+  }
+
+  .flex-container {
+    div {
+      width: 410px;
+      margin: 10px;
+      line-height: 40px;
+      text-align: left;
+    }
+
+  }
+
+.anchoimagen {
+  width: 100%;
+}

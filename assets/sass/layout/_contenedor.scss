@@ -4,18 +4,19 @@
   }
 
   .flex-container {
-    padding: 25px;
+    padding: 15px;
     display: flex;
     width: 100%;
     flex-wrap: wrap;
     flex-direction: row;
     align-content: flex-start;
+    margin-left: 25px;
   }
 
   .flex-container {
     div {
-      width: 410px;
-      margin: 10px;
+      width: 280px;
+      margin: 20px;
       line-height: 40px;
       text-align: left;
     }

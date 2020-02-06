@@ -1,5 +1,5 @@
 body {
-  font-family: 'Palanquin', sans-serif;
+  font-family: $tipoweb;
 }
 .titulovideo {
   margin-left: 65px;
@@ -11,12 +11,12 @@ body {
 }
 
 h4 {
-  font-family: 'Palanquin', sans-serif;
+  font-family: $tipoweb;
   font-weight: 700;
 }
 
 h5 {
-  font-family: 'Palanquin', sans-serif;
+  font-family: $tipoweb;
   font-weight: 700;
   padding-top: 15px;
 }

@@ -14,15 +14,13 @@
   margin-top: -60px;
   border: 10px;
 }
-
-.btn-boton1 {
-  font-family: "Cabin", sans-serif;
+.seccionbotones .btn-boton1 {
+  font-family: "Palanquin", sans-serif;
   background-color: #66ccff;
   color: #fff;
 }
-
-.btn-boton2 {
-  font-family: "Cabin", sans-serif;
+.seccionbotones .btn-boton2 {
+  font-family: "Palanquin", sans-serif;
   background-color: #ff6666;
   color: #fff;
 }

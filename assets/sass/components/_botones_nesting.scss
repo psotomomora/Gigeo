@@ -1,0 +1,17 @@
+.seccionbotones {
+  margin-left: 1100px;
+  margin-top: -60px;
+  border: 10px;
+
+  .btn-boton1 {
+    font-family: $tipoweb;
+    background-color: $colorceleste;
+    color: #fff;
+  }
+  .btn-boton2 {
+    font-family: $tipoweb;
+    background-color: $colorrosado;
+    color: #fff;
+  }
+
+}

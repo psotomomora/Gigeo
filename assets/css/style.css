@@ -28,6 +28,7 @@
 * {
   padding: 0px;
   margin: 0px;
+  max-width: 1350px;
 }
 
 .flex-container {
@@ -73,6 +74,10 @@ h5 {
   font-family: "Palanquin", sans-serif;
   font-weight: 700;
   padding-top: 15px;
+}
+
+.tipofiguras {
+  font-size: 25px;
 }
 
 /*# sourceMappingURL=style.css.map */
